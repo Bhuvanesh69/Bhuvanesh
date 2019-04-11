@@ -8,6 +8,7 @@ $_SESSION['course']=$_POST['course'];
 <form action="confirm1.php" method="post">
 EMAIL<input type="email" name="email"><br>
 PHONE<input type="text" name="number"><br>
+<input type="text">
 <input type="submit" name="submit" value="ok">
 </form>
 </html>
